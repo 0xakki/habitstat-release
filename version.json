@@ -1,8 +1,8 @@
 {
-  "version": "1.0.13",
-  "versionCode": 14,
-  "downloadUrl": "https://github.com/0xakki/habitstat-release/raw/main/apk/habitstat-1.0.13.apk",
-  "releaseNotes": "HabitStat Android 1.0.13 (build 14) - Dark/Light/System theme + GitHub OTA",
-  "publishedAt": "2026-07-17T05.25.32Z",
+  "version": "1.0.14",
+  "versionCode": 15,
+  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.14.apk",
+  "releaseNotes": "HabitStat Android 1.0.14 (build 15) - GitHub public OTA",
+  "publishedAt": "2026-07-17T05.44.27Z",
   "server": "github-releases"
 }
