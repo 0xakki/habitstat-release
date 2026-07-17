@@ -1,8 +1,8 @@
 {
-  "version": "1.0.14",
-  "versionCode": 15,
-  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.14.apk",
-  "releaseNotes": "HabitStat Android 1.0.14 (build 15) - GitHub public OTA",
-  "publishedAt": "2026-07-17T05.44.27Z",
+  "version": "1.0.15",
+  "versionCode": 16,
+  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.15.apk",
+  "releaseNotes": "HabitStat Android 1.0.15 (build 16) - GitHub public OTA",
+  "publishedAt": "2026-07-17T06.10.28Z",
   "server": "github-releases"
 }
