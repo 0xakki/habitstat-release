@@ -1,8 +1,8 @@
 {
-  "version": "1.0.15",
-  "versionCode": 16,
-  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.15.apk",
-  "releaseNotes": "HabitStat Android 1.0.15 (build 16) - GitHub public OTA",
-  "publishedAt": "2026-07-17T06.10.28Z",
+  "version": "1.0.18",
+  "versionCode": 19,
+  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.18.apk",
+  "releaseNotes": "1.0.18: Fix Web QR login allowlist for habitstat.vercel.app (was blocked on older APKs).",
+  "publishedAt": "2026-07-18T05.24.00Z",
   "server": "github-releases"
 }
