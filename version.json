@@ -1,8 +1,0 @@
-{
-  "version": "1.0.20",
-  "versionCode": 21,
-  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.20.apk",
-  "releaseNotes": "1.0.20:\n- System Pressure evening-only (>=20:00 local): unfinished habits drain HP once per day\n- Removed afternoon (>=14:00) MP drain on open dailies\n- Daily report / Aria copy updated for evening-only pressure\n- Zone time still follows device local timezone",
-  "publishedAt": "2026-07-21T04:49:33Z",
-  "server": "github-releases"
-}
