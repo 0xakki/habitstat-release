@@ -1,8 +1,8 @@
 {
-  "version": "1.0.21",
-  "versionCode": 22,
-  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.21.apk",
-  "releaseNotes": "1.0.21:\n- Background OTA download via Android foreground service\n- Leave/minimize HabitStat: download continues in notification\n- Force-kill from Recents stops download (START_NOT_STICKY)\n- HIDE progress dialog / CANCEL buttons\n- Evening-only System Pressure (from 1.0.20)\n- Fixed version.json JSON escape for update checks",
-  "publishedAt": "2026-07-21T05:06:59Z",
+  "version": "1.0.22",
+  "versionCode": 23,
+  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.22.apk",
+  "releaseNotes": "1.0.22:\n- Web QR login: dedicated Settings panel + full-screen scanner\n- Auto cloud session before approving web login\n- Retry cloud + status chip on scanner screen\n- Deep link habitstat://qr-login for QR payloads\n- Manual paste fallback if camera fails",
+  "publishedAt": "2026-07-21T12:45:52Z",
   "server": "github-releases"
 }
