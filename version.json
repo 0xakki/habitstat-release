@@ -1,8 +1,8 @@
 {
-  "version": "1.0.23",
-  "versionCode": 24,
-  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.23.apk",
-  "releaseNotes": "1.0.23:\n- Fix in-app update: prefer raw GitHub feed (not stale jsDelivr cache)\n- Check all mirrors and pick highest versionCode\n- Publish script syncs ota.json + purges jsDelivr after release",
-  "publishedAt": "2026-07-21T12:59:57Z",
+  "version": "1.0.24",
+  "versionCode": 25,
+  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.24.apk",
+  "releaseNotes": "1.0.24:\n- QR login shows YOUR player email (Settings), never solo transport Gmail\n- Prompt to enter/save email if not set before Approve\n- Hunter chip on QR screen instead of cloud transport account",
+  "publishedAt": "2026-07-22T03:49:41Z",
   "server": "github-releases"
 }
