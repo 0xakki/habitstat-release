@@ -1,8 +1,8 @@
 {
-  "version": "1.0.26",
-  "versionCode": 27,
-  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.26.apk",
-  "releaseNotes": "1.0.26:\n- Settings Web QR panel shows YOUR player email (not solo Gmail)\n- Label WEB IDENTITY + BACKUP ready (hides transport account)\n- Tip if player email not set yet",
-  "publishedAt": "2026-07-22T04:47:25Z",
+  "version": "1.0.28",
+  "versionCode": 29,
+  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.28.apk",
+  "releaseNotes": "HabitStat Android 1.0.28 (build 29) - GitHub public OTA",
+  "publishedAt": "2026-07-22T12:13:20Z",
   "server": "github-releases"
 }
