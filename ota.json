@@ -1,8 +1,8 @@
 {
-  "version": "1.0.31",
-  "versionCode": 32,
-  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.31.apk",
-  "releaseNotes": "HabitStat Android 1.0.31 (build 32) - GitHub public OTA",
-  "publishedAt": "2026-07-23T06:01:17Z",
+  "version": "1.0.32",
+  "versionCode": 33,
+  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.32.apk",
+  "releaseNotes": "HabitStat Android 1.0.32 (build 33) - GitHub public OTA",
+  "publishedAt": "2026-07-23T06:46:02Z",
   "server": "github-releases"
 }
