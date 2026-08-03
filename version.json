@@ -1,8 +1,8 @@
 {
-  "version": "1.0.39",
-  "versionCode": 40,
-  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.39.apk",
-  "releaseNotes": "HabitStat Android 1.0.39 (build 40) - GitHub public OTA",
-  "publishedAt": "2026-07-28T05:22:45Z",
+  "version": "1.0.40",
+  "versionCode": 41,
+  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.40.apk",
+  "releaseNotes": "HabitStat Android 1.0.40 (build 41) - GitHub public OTA",
+  "publishedAt": "2026-08-03T03:31:57Z",
   "server": "github-releases"
 }
