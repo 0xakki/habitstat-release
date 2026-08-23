@@ -1,9 +1,9 @@
 {
-  "version": "1.0.46",
-  "versionCode": 47,
-  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.46.apk",
-  "sha256": "ff58f8cf926adf6951516e927985b0c11ec7a36ccc0584747e9016282e30c49a",
-  "releaseNotes": "HabitStat Android 1.0.46 (build 47) - GitHub public OTA",
-  "publishedAt": "2026-08-23T06:00:51Z",
+  "version": "1.0.47",
+  "versionCode": 48,
+  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.47.apk",
+  "sha256": "a6a5b43e29da595025555ad057b5db9a0c279dfb792e6eaabeefa90886469e03",
+  "releaseNotes": "HabitStat Android 1.0.47 (build 48) - GitHub public OTA",
+  "publishedAt": "2026-08-23T06:32:00Z",
   "server": "github-releases"
 }
