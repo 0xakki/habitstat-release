@@ -1,9 +1,9 @@
 {
-  "version": "1.0.52",
-  "versionCode": 53,
-  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.52.apk",
-  "sha256": "a4e3e95e57d7a91f856bb584d19a3289210879ed92f9f4ecede8d2d926e0f768",
-  "releaseNotes": "HabitStat Android 1.0.52 (build 53) - GitHub public OTA",
-  "publishedAt": "2026-09-20T14:41:35Z",
+  "version": "1.0.53",
+  "versionCode": 54,
+  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.53.apk",
+  "sha256": "92dbc160c098ec1ad0ef920f1e9093865c61efe8266c4f7cb405b8da725aba63",
+  "releaseNotes": "HabitStat Android 1.0.53 (build 54) - GitHub public OTA",
+  "publishedAt": "2026-09-27T08:12:00Z",
   "server": "github-releases"
 }
