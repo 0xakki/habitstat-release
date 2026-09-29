@@ -1,9 +1,9 @@
 {
-  "version": "1.0.54",
-  "versionCode": 55,
-  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.54.apk",
-  "sha256": "2c78b45fdb2457d1e55651290b0a0d290642b825420075809a20deac86a9f553",
-  "releaseNotes": "HabitStat Android 1.0.54 (build 55) - GitHub public OTA",
-  "publishedAt": "2026-09-29T05:00:38Z",
+  "version": "1.0.55",
+  "versionCode": 56,
+  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.55.apk",
+  "sha256": "5bba3d544139cd1b6df4795b6766e818356dcaee1f069676e123ded57372dd30",
+  "releaseNotes": "HabitStat Android 1.0.55 (build 56) - soft delete: riwayat journey aman saat quest dihapus; konfirmasi sebelum swipe-delete",
+  "publishedAt": "2026-09-29T19:37:38Z",
   "server": "github-releases"
 }
