@@ -1,9 +1,9 @@
 {
-  "version": "1.0.57",
-  "versionCode": 58,
-  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.57.apk",
-  "sha256": "7494f9ddb9c0d6aaca904412ab12dcfbe9787753c7e900abed5a93e3c29c0472",
-  "releaseNotes": "HabitStat 1.0.57: navigasi 4 menu + More layar penuh; penyempurnaan Profile, Settings, Notes, Equipment dan Gate; motion halaman dan login; jadwal Habits mengikuti hari ini; filter kustom Dailies/Habits/Todos; pencarian Notes; hari dan tanggal pada header. Android ARM64.",
-  "publishedAt": "2026-10-14T07:42:45Z",
+  "version": "1.0.58",
+  "versionCode": 59,
+  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.58.apk",
+  "sha256": "f553eda0b709025a4ddc1c46e4bd3d7b7d4f730f7ba21e582a189d960530d270",
+  "releaseNotes": "HabitStat 1.0.58: optimasi scroll dan motion Android; halaman dibangun saat pertama dibuka; daftar Notes dirender bertahap; lapisan repaint dipisahkan; gerak background Android dihentikan; animasi bertumpuk dikurangi. Android ARM64. Target 60 FPS masih perlu pengujian di perangkat.",
+  "publishedAt": "2026-10-14T08:08:54Z",
   "server": "github-releases"
 }
