@@ -1,9 +1,9 @@
 {
-  "version": "1.0.56",
-  "versionCode": 57,
-  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.56.apk",
-  "sha256": "ea0128a0156620824ff6a0b64f1a39a2d5266f688910cc192f0d480d90441f62",
-  "releaseNotes": "HabitStat Android 1.0.56 (build 57) - To-Do bisa di-cancel dan dibuka lagi; tampilan Flutter diselaraskan dengan design reference; skor habit dipulihkan. PENTING: APK ini ditandatangani ulang (keystore baru), jadi kalau update gagal dipasang (App not installed) uninstall dulu aplikasi lama SEKALI, lalu install APK ini; setelah login data kembali dari sync.",
-  "publishedAt": "2026-10-14T06:28:38Z",
+  "version": "1.0.57",
+  "versionCode": 58,
+  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.57.apk",
+  "sha256": "7494f9ddb9c0d6aaca904412ab12dcfbe9787753c7e900abed5a93e3c29c0472",
+  "releaseNotes": "HabitStat 1.0.57: navigasi 4 menu + More layar penuh; penyempurnaan Profile, Settings, Notes, Equipment dan Gate; motion halaman dan login; jadwal Habits mengikuti hari ini; filter kustom Dailies/Habits/Todos; pencarian Notes; hari dan tanggal pada header. Android ARM64.",
+  "publishedAt": "2026-10-14T07:42:45Z",
   "server": "github-releases"
 }
