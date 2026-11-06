@@ -1,9 +1,9 @@
 {
-  "version": "1.0.58",
-  "versionCode": 59,
-  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.58.apk",
-  "sha256": "f553eda0b709025a4ddc1c46e4bd3d7b7d4f730f7ba21e582a189d960530d270",
-  "releaseNotes": "HabitStat 1.0.58: optimasi scroll dan motion Android; halaman dibangun saat pertama dibuka; daftar Notes dirender bertahap; lapisan repaint dipisahkan; gerak background Android dihentikan; animasi bertumpuk dikurangi. Android ARM64. Target 60 FPS masih perlu pengujian di perangkat.",
-  "publishedAt": "2026-10-14T08:08:54Z",
+  "version": "1.0.59",
+  "versionCode": 60,
+  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.59.apk",
+  "sha256": "3264e4cae3b4092f08ff4ce8de19d889ccb354a6049a26c2e06ef705e6733d9f",
+  "releaseNotes": "HabitStat 1.0.59: sync cloud-first - data cloud selalu jadi acuan. Saat dibuka/kembali dari background, app ambil data cloud dulu (coba 3x) sebelum cek harian, jadi daily check-in yang sudah di-claim di web tidak bisa di-claim lagi di HP. Perubahan dari HP hanya dikirim kalau data di cloud belum berubah; kalau sudah diubah dari web, versi cloud yang dipakai. Kalau offline, app pakai data lokal dan coba sync lagi tiap 30 menit. Baru: logo HabitStat di atas layar dengan titik hijau (online) / merah (offline), tap untuk sync. Termasuk perbaikan keamanan 1.0.58 (APK rilis hanya HTTPS) dan fitur Send Feedback.",
+  "publishedAt": "2026-11-06T11:13:08Z",
   "server": "github-releases"
 }
