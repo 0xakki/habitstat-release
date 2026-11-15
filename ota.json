@@ -1,9 +1,9 @@
 {
-  "version": "1.0.59",
-  "versionCode": 60,
-  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.59.apk",
-  "sha256": "3264e4cae3b4092f08ff4ce8de19d889ccb354a6049a26c2e06ef705e6733d9f",
-  "releaseNotes": "HabitStat 1.0.59: sync cloud-first - data cloud selalu jadi acuan. Saat dibuka/kembali dari background, app ambil data cloud dulu (coba 3x) sebelum cek harian, jadi daily check-in yang sudah di-claim di web tidak bisa di-claim lagi di HP. Perubahan dari HP hanya dikirim kalau data di cloud belum berubah; kalau sudah diubah dari web, versi cloud yang dipakai. Kalau offline, app pakai data lokal dan coba sync lagi tiap 30 menit. Baru: logo HabitStat di atas layar dengan titik hijau (online) / merah (offline), tap untuk sync. Termasuk perbaikan keamanan 1.0.58 (APK rilis hanya HTTPS) dan fitur Send Feedback.",
-  "publishedAt": "2026-11-06T11:13:08Z",
+  "version": "1.0.60",
+  "versionCode": 61,
+  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.60.apk",
+  "sha256": "1ca68821c5736d3d89e353a1c62efd801887dc6443c61b11a2bd44c1dc4e7a00",
+  "releaseNotes": "HabitStat 1.0.60: logo baru \"Rank Up\" - perisai biru-ungu dengan dua chevron emas. Ikon launcher (adaptive + legacy), logo di sidebar, halaman login (wordmark HABITSTAT + \"Turn habits into stats\") dan badge online/offline di atas layar ikut diganti. Baru di MCP: tool send_feedback untuk kirim laporan bug/saran langsung dari Claude/ChatGPT/klien MCP lain (masuk ke inbox feedback yang sama dengan Settings > Send feedback), plus list_my_feedback untuk cek statusnya. Termasuk semua perbaikan 1.0.59 (sync cloud-first). Android ARM64.",
+  "publishedAt": "2026-11-15T10:25:28Z",
   "server": "github-releases"
 }
