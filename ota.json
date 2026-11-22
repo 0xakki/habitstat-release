@@ -1,9 +1,9 @@
 {
-  "version": "1.0.60",
-  "versionCode": 61,
-  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.60.apk",
-  "sha256": "1ca68821c5736d3d89e353a1c62efd801887dc6443c61b11a2bd44c1dc4e7a00",
-  "releaseNotes": "HabitStat 1.0.60: logo baru \"Rank Up\" - perisai biru-ungu dengan dua chevron emas. Ikon launcher (adaptive + legacy), logo di sidebar, halaman login (wordmark HABITSTAT + \"Turn habits into stats\") dan badge online/offline di atas layar ikut diganti. Baru di MCP: tool send_feedback untuk kirim laporan bug/saran langsung dari Claude/ChatGPT/klien MCP lain (masuk ke inbox feedback yang sama dengan Settings > Send feedback), plus list_my_feedback untuk cek statusnya. Termasuk semua perbaikan 1.0.59 (sync cloud-first). Android ARM64.",
-  "publishedAt": "2026-11-15T10:25:28Z",
+  "version": "1.0.61",
+  "versionCode": 62,
+  "downloadUrl": "https://raw.githubusercontent.com/0xakki/habitstat-release/main/apk/habitstat-1.0.61.apk",
+  "sha256": "e20ddc073168aa7c3f3c1ed87e19202887d0fe5b3f39de7e772eb347aee1c667",
+  "releaseNotes": "HabitStat 1.0.61: fitur baru Hunter Difficulty - pilih Easy / Medium / Hard / Monarch di halaman Status. Easy: damage x0.75, XP/Mora x0.9; Medium: standar; Hard: damage x1.5, XP/Mora x1.3; Monarch (mulai Lv 50): damage x2, XP/Mora x1.6. Ganti difficulty bayar 1000 Mora dan kena Miasma (utang setengah max HP). Foto profil sekarang punya ring berputar sesuai difficulty (hijau/biru/merah, Monarch ungu gelap dengan api hitam). Animasi logo saat app dibuka, foto profil baru untuk Aria, dan bar mini HP/MP/XP di header samping Mora. Android ARM64.",
+  "publishedAt": "2026-11-22T17:21:17Z",
   "server": "github-releases"
 }
